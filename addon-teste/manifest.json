@@ -1,0 +1,30 @@
+{
+  "id": "com.manoplay.teste",
+  "version": "1.0.0",
+  "name": "ManoPLAY Teste",
+  "description": "Addon de teste com vídeos livres de demonstração (Blender Foundation e streams de teste).",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "mpt-"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "livres",
+      "name": "Filmes livres"
+    },
+    {
+      "type": "series",
+      "id": "teste",
+      "name": "Série de teste"
+    }
+  ]
+}

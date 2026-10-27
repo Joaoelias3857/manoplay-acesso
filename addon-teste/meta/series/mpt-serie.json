@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "mpt-serie",
+    "type": "series",
+    "name": "Série de teste",
+    "videos": [
+      {
+        "id": "mpt-serie-e1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episódio 1 - Big Buck Bunny"
+      },
+      {
+        "id": "mpt-serie-e2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episódio 2 - Sintel"
+      },
+      {
+        "id": "mpt-serie-e3",
+        "season": 2,
+        "episode": 1,
+        "title": "Temporada 2 - Tears of Steel"
+      }
+    ]
+  }
+}

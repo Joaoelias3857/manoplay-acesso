@@ -1,0 +1,13 @@
+ADDON DE TESTE DO ManoPLAY
+
+Serve para testar catalogo, episodios e reproducao com videos livres de demonstracao
+(Blender Foundation e streams de teste). Nao contem nenhum conteudo protegido.
+
+Como usar:
+1) No seu repositorio manoplay-acesso (GitHub), clique em Add file > Upload files e envie
+   a pasta inteira "addon-teste" (com manifest.json, catalog, meta e stream).
+2) Na TV: Config. > Addons (adicionar por URL) e cole:
+   https://raw.githubusercontent.com/Joaoelias3857/manoplay-acesso/main/addon-teste/manifest.json
+3) Abra Filmes e Series: aparecem "ManoPLAY Teste - Filmes livres" e "Serie de teste".
+
+Os links dos videos nao foram verificados daqui; se algum nao tocar, o link pode ter mudado.

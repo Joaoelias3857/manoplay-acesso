@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Sintel",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    }
+  ]
+}

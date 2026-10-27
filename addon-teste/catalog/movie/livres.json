@@ -1,0 +1,19 @@
+{
+  "metas": [
+    {
+      "id": "mpt-bbb",
+      "type": "movie",
+      "name": "Big Buck Bunny"
+    },
+    {
+      "id": "mpt-sintel",
+      "type": "movie",
+      "name": "Sintel"
+    },
+    {
+      "id": "mpt-tos",
+      "type": "movie",
+      "name": "Tears of Steel"
+    }
+  ]
+}
