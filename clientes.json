@@ -1,0 +1,13 @@
+{
+  "whatsapp": "",
+  "clients": [
+    {
+      "code": "1001",
+      "user": "teste",
+      "name": "Cliente Teste",
+      "hash": "1eecf606ff3ed91d997eac4dfef3a8348129747dde47a121a33e43ebefa6e41c",
+      "expires": "2099-12-31",
+      "active": true
+    }
+  ]
+}
