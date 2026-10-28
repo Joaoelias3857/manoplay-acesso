@@ -1,5 +1,12 @@
 {
   "server": "http://atmt.space",
   "whatsapp": "",
-  "clients": []
+  "clients": [{
+    "user": "roku.teste",
+    "code": "ROKU",
+    "hash": "código longo gerado pela página",
+    "name": "Revisor Roku",
+    "m3u": "https://raw.githubusercontent.com/Joaoelias3857/manoplay-acesso/main/roku-teste.m3u",
+    "active": true
+  }]
 }
