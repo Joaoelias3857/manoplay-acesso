@@ -1,0 +1,9 @@
+{
+  "code": "9001",
+  "user": "revisor-roku",
+  "name": "Revisor Roku",
+  "hash": "fc38ed584a245915b273956567031a2b44c665f95f5f03d11d846465d030619e",
+  "expires": "2099-12-31",
+  "active": true,
+  "m3u": "https://raw.githubusercontent.com/Joaoelias3857/manoplay-acesso/main/teste-legal.m3u"
+},
