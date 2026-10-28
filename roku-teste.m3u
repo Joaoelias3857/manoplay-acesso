@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Filmes (domínio público)",A Noite dos Mortos-Vivos (1968)
+#EXTINF:-1 tvg-id="noite-mortos-vivos-1968" group-title="Filmes (domínio público)",A Noite dos Mortos-Vivos (1968)
 https://archive.org/download/PhantasmagoriaTheater-NightOfTheLivingDead1968321/PhantasmagoriaTheater-NightOfTheLivingDead1968321_512kb.mp4
-#EXTINF:-1 group-title="Filmes (domínio público)",A General (1926)
+#EXTINF:-1 tvg-id="a-general-1926" group-title="Filmes (domínio público)",A General (1926)
 https://archive.org/download/Buster_Keaton_The_General/TheGeneral_512kb.mp4
