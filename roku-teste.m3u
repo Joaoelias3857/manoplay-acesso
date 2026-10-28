@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="noite-mortos-vivos-1968" group-title="Filmes (domínio público)",A Noite dos Mortos-Vivos (1968)
 https://archive.org/download/PhantasmagoriaTheater-NightOfTheLivingDead1968321/PhantasmagoriaTheater-NightOfTheLivingDead1968321_512kb.mp4
-#EXTINF:-1 tvg-id="a-general-1926" group-title="Filmes (domínio público)",A General (1926)
-https://archive.org/download/Buster_Keaton_The_General/TheGeneral_512kb.mp4
+#EXTINF:-1 tvg-id="jejum-de-amor-1940" group-title="Filmes (domínio público)",Jejum de Amor (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday.mp4
+#EXTINF:-1 tvg-id="flash-gordon-s01e01" group-title="Séries (domínio público)",Flash Gordon S01E01 - The Planet of Peril
+https://archive.org/download/flash-gordon-1936_202408/S1Ep1%20-%20The%20Planet%20of%20Peril.mp4
+#EXTINF:-1 tvg-id="flash-gordon-s01e02" group-title="Séries (domínio público)",Flash Gordon S01E02 - The Tunnel of Terror
+https://archive.org/download/flash-gordon-1936_202408/S1Ep2%20-%20The%20Tunnel%20of%20Terror.mp4
+#EXTINF:-1 tvg-id="flash-gordon-s01e03" group-title="Séries (domínio público)",Flash Gordon S01E03 - Captured by Shark Men
+https://archive.org/download/flash-gordon-1936_202408/S1Ep3%20-%20Captured%20by%20Shark%20Men.mp4
+#EXTINF:-1 tvg-id="canal-teste-ao-vivo" group-title="Canais ao vivo",Canal de Teste Ao Vivo
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
