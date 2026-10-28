@@ -4,7 +4,7 @@
   "clients": [{
     "user": "roku.teste",
     "code": "ROKU",
-    "hash": "código longo gerado pela página",
+    "hash": "71f086d6f5f193ac60e9a865e5ce60e96e4c9235470f5ac06ed2af39cf107c8d",
     "name": "Revisor Roku",
     "m3u": "https://raw.githubusercontent.com/Joaoelias3857/manoplay-acesso/main/roku-teste.m3u",
     "active": true
